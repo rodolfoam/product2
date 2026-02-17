@@ -1,0 +1,70 @@
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.RDataTmp6
+.RDataTmp
+.RDataTmp2
+.RDataTmp1
+.RDataTmp3
+.RDataTmp4
+.RDataTmp5
+.RDataTmp6
+.RDataTmp7
+.RDataTmp8
+latam_aoi.prj
+latam_aoi.cpg
+latam_aoi.dbf
+latam_aoi.shp
+latam_aoi.shx
+Annotated_JAGS_Model_Guide (2).pdf
+Cruz-et-al-2022-SM1.csv
+ERA5
+ERA5-land-processing.R
+ESA-land-cover.R
+ESA_land_cover
+EltonTraits1.0
+Ferraz et al 2026-JAGS-RNmodel.R
+Ferraz et al 2026.pdf
+HFI
+HMI
+Hayward16-Jaguar-selection-J.csv
+LATAM_database_WWF.xlsx
+LMB
+MCD12Q1_LATAM
+NA
+PHYLACINE1.2
+PanTHERIA
+Prey-weighted-abundances.xlsx
+Product-2.Rproj
+RN-jags-12.02.26.R
+RN-jags.R
+Sampaio et al 2023.docx
+Sampaio-et-al-2023-JAGS-RNmodel.R
+Semper-Pascual et al 2022-nimble-model.R
+Semper-Pascual et al 2022.docx
+WWF-summary-report-product2-RAM-VB.docx
+WWF-summary-report-product2-RAM.docx
+WWF-summary-report-product2-v2.docx
+activity.R
+cov-weights.csv
+dd-table.csv
+hfp_exports
+hfp_patches_exports
+input-preparation.R
+jaguar-studies-predictors
+location dupies.R
+logit-clolog.R
+mdd1.2_range_maps.dbf
+mdd1.2_range_maps.prj
+mdd1.2_range_maps.shp
+mdd1.2_range_maps.shx
+monthly_t.grib
+occu-input-preparation.R
+plots
+pop-closure-assumption-jaguar-report.docx
+scalescape-bayesian-function.R
+sp_act_levels.csv
+species.csv
+tables
+world-administrative-boundaries-shp
