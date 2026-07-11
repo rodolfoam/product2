@@ -68,3 +68,7 @@ sp_act_levels.csv
 species.csv
 tables
 world-administrative-boundaries-shp
+.Rproj.user
+.httr-oauth
+.DS_Store
+.quarto
